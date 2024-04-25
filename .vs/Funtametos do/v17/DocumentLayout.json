@@ -1,12 +1,137 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|c:\\users\\mathu\\onedrive\\documentos\\github\\virtualdn\\funtametos do\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|c:\\users\\mathu\\onedrive\\documentos\\github\\virtualdn\\funtametos do\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|c:\\users\\mathu\\onedrive\\documentos\\github\\virtualdn\\funtametos do\\views\\pessoa\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|solutionrelative:views\\pessoa\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|c:\\users\\mathu\\onedrive\\documentos\\github\\virtualdn\\funtametos do\\views\\pessoa\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|solutionrelative:views\\pessoa\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|c:\\users\\mathu\\onedrive\\documentos\\github\\virtualdn\\funtametos do\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|solutionrelative:controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|c:\\users\\mathu\\onedrive\\documentos\\github\\virtualdn\\funtametos do\\viewmodel\\pessoaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|solutionrelative:viewmodel\\pessoaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|c:\\users\\mathu\\onedrive\\documentos\\github\\virtualdn\\funtametos do\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7428D527-6E9E-4AD6-B7E8-742800422D4A}|Funtametos do.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:12:23.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:12:19.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Views\\Pessoa\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pessoa\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Views\\Pessoa\\Listar.cshtml",
+              "RelativeToolTip": "Views\\Pessoa\\Listar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:02:09.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PessoaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\ViewModel\\PessoaViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\PessoaViewModel.cs",
+              "ToolTip": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\ViewModel\\PessoaViewModel.cs",
+              "RelativeToolTip": "ViewModel\\PessoaViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:26:25.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Views\\Pessoa\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pessoa\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Views\\Pessoa\\Cadastrar.cshtml",
+              "RelativeToolTip": "Views\\Pessoa\\Cadastrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T18:12:29.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:47:56.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\Users\\mathu\\OneDrive\\Documentos\\GitHub\\VirtualDN\\Funtametos do\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "Controllers\\PessoaController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:46:30.576Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Funtametos do")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0aa071cdf86d6e88ee9bc00ad682927663d10b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Funtametos do")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Funtametos do")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

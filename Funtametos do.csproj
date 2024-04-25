@@ -7,4 +7,9 @@
     <RootNamespace>Funtametos_do</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="entityframework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
 </Project>

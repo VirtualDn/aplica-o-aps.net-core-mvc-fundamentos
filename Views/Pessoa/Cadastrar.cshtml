@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Cadastrar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Cadastrar</h1>
+
+<form method="post" action="/Pessoa/Cadastro">
+    <div class="mb-3">
+        <label for="Nome" class="form-label">Nome</label>
+        <input type="text" class="form-control" id="Nome" name="Nome" aria-describedby="Nome">
+    </div>
+    <div class="mb-3">
+        <label for="Cidade" class="form-label">Cidade</label>
+        <input type="text" class="form-control" id="Cidade" name="Cidade" aria-describedby="Cidade">
+    </div>
+    <div class="mb-3">
+        <label for="CPF" class="form-label">CPF</label>
+        <input type="text" class="form-control" id="CPF" name="CPF" aria-describedby="CPF">
+    </div>
+    <div class="mb-3">
+        <label for="UF" class="form-label">UF</label>
+        <input type="text" class="form-control" id="UF" name="UF" aria-describedby="UF">
+    </div>
+    <select class="form-select" aria-label="Sexo" name="Sexo">
+        <option selected>selecione o sexo</option>
+        <option value="M">masculino</option>
+        <option value="F">Femilino</option>
+        <option value="O">Outros</option>
+    </select>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
